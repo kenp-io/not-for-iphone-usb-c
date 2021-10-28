@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name f94_fake)(type Legacy)(uri ${KIPRJMOD}/f94_flex.lib)(options "")(descr ""))
+)
